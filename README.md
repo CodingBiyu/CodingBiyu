@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Html, Css ,JavaScript and mysql**
 
-- 📫 How to reach me **abiha.sami975@gmail.com**
+- 📫 You can reach me on my  **LinkedIn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
