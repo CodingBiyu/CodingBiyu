@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abiha</h1>
+<h1 align="center">Hi 👋, I'm Abiha aka Biyu</h1>
 <h3 align="center">A dedicated Jnr Web developer hailing from Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingbiyu&label=Profile%20views&color=a10eb4&style=flat" alt="codingbiyu" /> </p>
