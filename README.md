@@ -42,4 +42,3 @@
 
 
 [![An image of @codingbiyu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codingbiyu)](https://holopin.io/@codingbiyu)
-[![An image of @codingbiyu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codingbiyu)](https://holopin.io/@codingbiyu)
