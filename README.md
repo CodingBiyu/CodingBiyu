@@ -33,4 +33,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingbiyu&" alt="codingbiyu" /></p>
 
-[![An image of @codingbiyu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codingbiyu)](https://holopin.io/@codingbiyu)
