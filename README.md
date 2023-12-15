@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working **on small projects.**
 
-- 🌱 I’m learning **css and JavaScript on dailt basis**
+- 🌱 I’m learning **css and JavaScript on daily basis**
 
 - 👨‍💻 All of my projects are available at my GitHub. Soon you'll get to see more amazing Stuff [https://github.com/CodingBiyu/](https://github.com/CodingBiyu/)
 
